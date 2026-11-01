@@ -11,13 +11,21 @@ export default function Gallery() {
   useEffect(() => {
     const handleResize = () => setIsMobile(window.innerWidth < 768);
     window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
-  }, []);
+    return () => window.removeEventListener("resize", handleResize);  }, []);
 
   const images = useMemo(() => [
     "/images/Team_2026_1.jpg",
     "/images/Team_2026_2.png",
+    "/images/Utthana_2026_1.jpg",
+    "/images/Utthana_2026_2.png",
     "/images/Utthana_2026_3.png",
+    "/images/BOD_Connect_1.png",
+    "/images/BOD_Connect_1_2.png",
+    "/images/BOD_Connect_1_3.png",
+    "/images/BOD_Connect_2.png",
+    "/images/BOD_Connect_2_2.png",
+    "/images/BOD_Connect_2_3.png",
+    "/images/BOD_Connect_2_4.png",
     "/images/Ganeshotsav_2026_2.jpg",
     "/images/Ganeshotsav_2026_1.jpg",
     "/images/Ganeshotsav_2026_3.png",
