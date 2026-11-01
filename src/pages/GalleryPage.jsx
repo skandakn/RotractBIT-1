@@ -23,6 +23,8 @@ export default function GalleryPage() {
     "/images/Project_Vidya_3.jpg",
     "/images/Project_Vidya_4.png",
     "/images/Bond_and_Beyond_1.png",
+    "/images/Bond_and_Beyond_2.png",
+    "/images/Bond_and_Beyond_3.png",
     "/images/Gallery1.jpeg",
     "/images/Gallery2.jpeg",
     "/images/Gallery3.jpeg",
