@@ -235,10 +235,8 @@ export const eventsData = [
     ],
     images: [
       "/images/Bond_and_Beyond_1.png",
-      "/images/Club1_service1.jpg",
-      "/images/Club1_service2.jpg",
-      "/images/Club1_service3.jpg",
-      "/images/Club1_service4.jpg"
+      "/images/Bond_and_Beyond_2.png",
+      "/images/Bond_and_Beyond_3.png"
     ],
     image: "/images/Bond_and_Beyond_1.png",
     monthYear: "September 2026"
