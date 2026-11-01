@@ -24,7 +24,8 @@ export const eventsData = [
       "/images/Utthana_2026_3.png"
     ],
     image: "/images/Utthana_2026_1.jpg",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "meet-beyond-the-role-2026",
@@ -50,7 +51,8 @@ export const eventsData = [
       "/images/Club_Orientation_2026_3.png"
     ],
     image: "/images/Club_Orientation_2026_1.png",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "meet-beyond-the-avenues-2026",
@@ -76,7 +78,8 @@ export const eventsData = [
       "/images/Beyond_The_Avenues_3.png"
     ],
     image: "/images/Beyond_The_Avenues_1.png",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "meet-gbm-sep-2026",
@@ -103,7 +106,8 @@ export const eventsData = [
       "/images/GBM_Sept_2026_3.png"
     ],
     image: "/images/GBM_Sept_2026_1.png",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "meet-bod-connect-1-2026",
@@ -129,7 +133,8 @@ export const eventsData = [
       "/images/BOD_Connect_1_3.png"
     ],
     image: "/images/BOD_Connect_1.png",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "meet-bod-connect-2-2026",
@@ -156,7 +161,8 @@ export const eventsData = [
       "/images/BOD_Connect_2_4.png"
     ],
     image: "/images/BOD_Connect_2.png",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-project-vidya-2026",
@@ -185,7 +191,8 @@ export const eventsData = [
       "/images/Project_Vidya_4.png"
     ],
     image: "/images/Project_Vidya_1.jpg",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-jnanavinayaka-ganeshotsav-2026",
@@ -212,7 +219,8 @@ export const eventsData = [
       "/images/Ganeshotsav_2026_3.png"
     ],
     image: "/images/Ganeshotsav_2026_2.jpg",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-bond-and-beyond-2026",
@@ -239,7 +247,8 @@ export const eventsData = [
       "/images/Bond_and_Beyond_3.png"
     ],
     image: "/images/Bond_and_Beyond_1.png",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-nourish-to-flourish-2026",
@@ -264,7 +273,8 @@ export const eventsData = [
       "/images/Youth_wellness2.jpg"
     ],
     image: "/images/Youth_wellness1.jpg",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-family-ganesha-2026",
@@ -289,7 +299,8 @@ export const eventsData = [
       "/images/Party_in_pink2.jpeg"
     ],
     image: "/images/Party_in_pink1.jpeg",
-    monthYear: "September 2026"
+    monthYear: "September 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-beyond-the-badge-2026",
@@ -316,7 +327,8 @@ export const eventsData = [
       "/images/bod_orientation_5.png"
     ],
     image: "/images/bod_orientation_1.png",
-    monthYear: "August 2026"
+    monthYear: "August 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-yuvaa-2026",
@@ -344,7 +356,8 @@ export const eventsData = [
       "/images/yuvaa_2026_2.png"
     ],
     image: "/images/yuvaa_2026_3.png",
-    monthYear: "August 2026"
+    monthYear: "August 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-scoops-and-smiles-2026",
@@ -370,7 +383,8 @@ export const eventsData = [
       "/images/scoops_and_smiles_5.jpg"
     ],
     image: "/images/scoops_and_smiles_1.jpg",
-    monthYear: "July 2026"
+    monthYear: "July 2026",
+    rotaractYear: "2026–2027"
   },
   {
     id: "act-1",
@@ -395,7 +409,8 @@ export const eventsData = [
       "/images/Badminton.jpeg"
     ],
     image: "/images/Badminton.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-2",
@@ -417,7 +432,8 @@ export const eventsData = [
       "/images/Bombay_meri_jaan3.jpeg"
     ],
     image: "/images/Bombay_meri_jaan1.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-1",
@@ -440,7 +456,8 @@ export const eventsData = [
       "/images/BOD_Meet.jpeg"
     ],
     image: "/images/BOD_Meet.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-2",
@@ -463,7 +480,8 @@ export const eventsData = [
       "/images/GBM1.png",
       "/images/GBM2.jpeg"    ],
     image: "/images/GBM1.png",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
 
   {
@@ -497,7 +515,8 @@ export const eventsData = [
 
     ],
     image: "/images/Udbhav1.JPG",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-1",
@@ -518,7 +537,8 @@ export const eventsData = [
       "/images/Aashraya2.jpeg"
     ],
     image: "/images/Aashraya1.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
 
   {
@@ -540,7 +560,8 @@ export const eventsData = [
       "/images/Mahadan2.jpeg"
     ],
     image: "/images/Mahadan.jpg",
-    monthYear: "March 2026"
+    monthYear: "March 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-3",
@@ -564,7 +585,8 @@ export const eventsData = [
       "/images/Choas5.jpeg"
     ],
     image: "/images/Chaos1.png",
-    monthYear: "February 2026"
+    monthYear: "February 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-4",
@@ -584,7 +606,8 @@ export const eventsData = [
       "/images/Royal_Sports.png"
     ],
     image: "/images/Royal_Sports.png",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-5",
@@ -604,7 +627,8 @@ export const eventsData = [
       "/images/Royal_sports2.png"
     ],
     image: "/images/Royal_sports2.png",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-3",
@@ -624,7 +648,8 @@ export const eventsData = [
       "/images/Dry_Fruit_Delight.jpeg"
     ],
     image: "/images/Dry_Fruit_Delight.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-6",
@@ -648,7 +673,8 @@ export const eventsData = [
       "/images/Santa5.jpeg"
     ],
     image: "/images/Santa1.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-4",
@@ -671,7 +697,8 @@ export const eventsData = [
       "/images/Donation_Drive4.jpeg"
     ],
     image: "/images/Donation_Drive1.jpeg",
-    monthYear: "December 2025"
+    monthYear: "December 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "dov-2",
@@ -694,7 +721,8 @@ export const eventsData = [
       "/images/Thazh4.jpeg"
     ],
     image: "/images/Thazh1.jpeg",
-    monthYear: "December 2025"
+    monthYear: "December 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-3",
@@ -720,7 +748,8 @@ export const eventsData = [
       "/images/COPS4.jpeg"
     ],
     image: "/images/COPS4.jpeg",
-    monthYear: "January 2026"
+    monthYear: "January 2026",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-5",
@@ -743,7 +772,8 @@ export const eventsData = [
       "/images/District_Team_ISD.jpeg"
     ],
     image: "/images/District_Team_ISD.jpeg",
-    monthYear: "December 2025"
+    monthYear: "December 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-6",
@@ -766,7 +796,8 @@ export const eventsData = [
       "/images/District_profMeet.jpeg"
     ],
     image: "/images/District_profMeet.jpeg",
-    monthYear: "December 2025"
+    monthYear: "December 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-7",
@@ -793,7 +824,8 @@ export const eventsData = [
       "/images/Zone_meet5.jpg",
     ],
     image:"/images/Zone_mett3.jpg",
-    monthYear: "August 2025"
+    monthYear: "August 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "meet-8",
@@ -816,7 +848,8 @@ export const eventsData = [
       "/images/Core_Subcore_intra.jpg"
     ],
     image: "/images/Core_Subcore_intra.jpg",
-    monthYear: "July 2025"
+    monthYear: "July 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-8",
@@ -839,7 +872,8 @@ export const eventsData = [
       "/images/Party_in_pink4.jpeg"
     ],
     image: "/images/Party_in_pink1.jpeg",
-    monthYear: "December 2025"
+    monthYear: "December 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-9",
@@ -860,7 +894,8 @@ export const eventsData = [
       "/images/Namma_ooru2.jpg"
     ],
     image: "/images/Namma_ooru1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-5",
@@ -881,7 +916,8 @@ export const eventsData = [
       "/images/Amazon2.jpg"
     ],
     image: "/images/Amazon1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-6",
@@ -905,7 +941,8 @@ export const eventsData = [
       "/images/Childrens_day5.jpg"
     ],
     image: "/images/Childrens_day1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-10",
@@ -927,7 +964,8 @@ export const eventsData = [
       "/images/Club2_service3.jpg"
     ],
     image: "/images/Club2_service1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-11",
@@ -950,7 +988,8 @@ export const eventsData = [
       "/images/Prize5.jpg"
     ],
     image: "/images/Prize1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-12",
@@ -973,7 +1012,8 @@ export const eventsData = [
       "/images/State_level4.jpg"
     ],
     image: "/images/State_level1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-13",
@@ -993,7 +1033,8 @@ export const eventsData = [
       "/images/Naada_Habba1.jpg"
     ],
     image: "/images/Naada_Habba1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-14",
@@ -1017,7 +1058,8 @@ export const eventsData = [
       "/images/Impact5.jpg"
     ],
     image: "/images/Impact1.jpg",
-    monthYear: "November 2025"
+    monthYear: "November 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-15",
@@ -1040,7 +1082,8 @@ export const eventsData = [
       "/images/Club1_service4.jpg"
     ],
     image: "/images/Club1_service1.jpg",
-    monthYear: "October 2025"
+    monthYear: "October 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-7",
@@ -1062,7 +1105,8 @@ export const eventsData = [
       "/images/Knowledge_kit3.png"
     ],
     image: "/images/Knowlodge_kit1.png",
-    monthYear: "September 2025"
+    monthYear: "September 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "proj-8",
@@ -1086,7 +1130,8 @@ export const eventsData = [
       "/images/Youth_wellness5.jpg"
     ],
     image: "/images/Youth_wellness1.jpg",
-    monthYear: "September 2025"
+    monthYear: "September 2025",
+    rotaractYear: "2025–2026"
   },
   {
     id: "act-16",
@@ -1107,6 +1152,7 @@ export const eventsData = [
       "/images/Utkarsha2.jpg"
     ],
     image: "/images/Utkarsha1.jpg",
-    monthYear: "August 2025"
+    monthYear: "August 2025",
+    rotaractYear: "2025–2026"
   }
 ];
